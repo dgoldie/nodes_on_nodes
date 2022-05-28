@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "child_node_ids": [
+      "2",
+      "3",
+      "7"
+    ]
+  },
+  {
+    "id": "2",
+    "child_node_ids": ["7"]
+  },
+  {
+    "id": "3",
+    "child_node_ids": ["4", "5", "7"]
+  },
+  {
+    "id": "4",
+    "child_node_ids": ["6"]
+  },
+  {
+    "id": "5",
+    "child_node_ids": [
+      "6",
+      "7"
+    ]
+  },
+  {
+    "id": "6",
+    "child_node_ids": []
+  },
+  {
+    "id": "7",
+    "child_node_ids": []
+  },
+  {
+    "id": "1",
+    "child_node_ids": []
+  }
+]
